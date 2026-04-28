@@ -1,0 +1,15 @@
+# Clé API — NE JAMAIS publier
+.env
+
+# Fichiers générés
+REMPLI_*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/

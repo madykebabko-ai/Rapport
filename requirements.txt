@@ -1,0 +1,4 @@
+groq
+pdfplumber
+openpyxl
+python-dotenv
